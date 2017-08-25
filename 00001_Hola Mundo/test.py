@@ -1,2 +1,4 @@
-def test_holamumukito(self):
-  self.assertEqual(2, 'Hola Mumukito!')
+class TestStringMethods(unittest.TestCase):
+
+  def test_hola_mumukito(self):
+    self.assertEqual(2, 'Hola Mumukito!')
