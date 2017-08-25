@@ -1,2 +1,2 @@
-def test_hola_mumukito(self):
+def test_holamumukito(self):
   self.assertEqual(2, 'Hola Mumukito!')
