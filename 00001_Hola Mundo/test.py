@@ -1,4 +1,4 @@
 class TestStringMethods(unittest.TestCase):
 
   def test_hola_mumukito(self):
-    self.assertEqual(2, 'Hola Mumukito!')
+    self.assertEqual(hola_mumukito(), 'Hola Mumukito!')
