@@ -1,4 +1,4 @@
 class Test(unittest.TestCase):
 
   def test_hola_mumukito(self):
-    self.assertTrue(hola_mumukito(), 'Hola Mumukito!')
+    self.assertEquals(hola_mumukito(), 'Hola Mumukito!')
