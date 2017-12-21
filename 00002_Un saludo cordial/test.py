@@ -3,4 +3,4 @@ class Test(unittest.TestCase):
     /*...content...*/
 
   def test_hola_carlos(self):
-    self.assertEquals(saludo_corial("carlos", 98), 'Hola Carlos, 98 anos no es nada, estas hecho un pibe!')
+    self.assertEquals(saludo_cordial("carlos", 98), 'Hola Carlos, 98 anos no es nada, estas hecho un pibe!')
