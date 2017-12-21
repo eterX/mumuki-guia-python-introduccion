@@ -1,5 +1,5 @@
 def saludo_cordial(nombre, edad):
-  /*...content...*/
+  return /*...content...*/
     
 class Test(unittest.TestCase):
   
